@@ -1,0 +1,21 @@
+{
+  "name": "black-widow",
+  "displayName": "Black Widow",
+  "description": "The Black Widow theme serves as a conduit for imagination, where every keystroke brings ideas to life, flourishing in a space designed for unbridled creativity and precision.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Widow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black Widow-color-theme.json"
+      }
+    ]
+  }
+}
